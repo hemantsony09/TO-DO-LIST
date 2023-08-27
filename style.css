@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+
+}
+.nav {
+
+    text-align: center;
+    background-color: rgb(183, 183, 183);
+    
+    padding: 20px 20px 20px 20px;
+} 
+.nav h1{
+    font-size: 30px;
+}
+.box{
+    margin-left: 600px;
+}
+.todo{
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 3px;
+    text-align: left;
+}
+#todo-input{
+    width: 300px;
+    height: 30px;
+    background-color: rgba(176, 165, 165, 0.854);
+    border-radius: 54px;
+    border: solid black 2px;
+}
+.btn{
+    display: inline-block;
+    height: 35px;
+    width: 90px;
+    border: solid black 2px;
+    border-radius: 30px;
+}
+#list{
+    margin:23px 26px 0 -19px;
+    margin-right: 535px;
+    font-size: 25px;
+}
+#list button{
+    border: solid black 2px;
+    border-radius: 50px;
+    width: 82px;
+    float: right;
+}
